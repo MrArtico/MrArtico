@@ -1,5 +1,5 @@
 ## Olá, eu sou Thiago Gonçalves! 👋 
-Sou um estudante de Análise e Desenvolvimento de Sistemas do Centro Universitário FAMINAS, atualmente cursando o 2º período (2/5). Amo aprender qualquer tipo de tecnologia e busco saber muito mais das que tenho a oferecer... qualquer aprendizado útil eu estou agarrando.
+Sou um estudante de Análise e Desenvolvimento de Sistemas do Centro Universitário FAMINAS, atualmente cursando o 5º período (5/5). Amo aprender qualquer tipo de tecnologia e busco saber muito mais das que tenho a oferecer... qualquer aprendizado útil eu estou agarrando.
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArtico&show_icons=true&theme=dark)
 
